@@ -3,7 +3,23 @@ entries:
   thales-dtls-proxy:
   - apiVersion: v1
     appVersion: release-0.1.0
-    created: "2022-05-22T01:33:10.448137772+02:00"
+    created: "2022-05-25T18:56:39.766477276+02:00"
+    description: INSPIRE-5Gplus VCP enabler - DTLS Proxy (THALES)
+    digest: ada9ae8cb06aa73cb045d2798f08b87bdf3b15e22293b45b46b4adc234bdddde
+    home: https://www.inspire-5gplus.eu/
+    icon: https://5g-ppp.eu/wp-content/uploads/2019/10/INSPIRE-5Gplus-logo.png
+    keywords:
+    - coap
+    - dtls
+    maintainers:
+    - name: Cyril Dangerville (Thales)
+    name: thales-dtls-proxy
+    urls:
+    - https://inspire-5gplus.github.io/helm-charts/thales-dtls-proxy-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: release-0.1.0
+    created: "2022-05-25T18:56:39.765712016+02:00"
     description: INSPIRE-5Gplus VCP enabler - DTLS Proxy (THALES)
     digest: 3c3812b934f461456b73ad82034fee22fe1172fbbf02c0bc6f31ecb229a9c5c0
     home: https://www.inspire-5gplus.eu/
@@ -17,4 +33,4 @@ entries:
     urls:
     - https://inspire-5gplus.github.io/helm-charts/thales-dtls-proxy-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-22T01:33:10.447270358+02:00"
+generated: "2022-05-25T18:56:39.764319447+02:00"
